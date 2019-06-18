@@ -4,8 +4,9 @@ class ColorsController < ApplicationController
   # GET /colors
   def index
     @colors = Color.all
-
+    
     render json: @colors
+    p "hit route"
   end
 
   # GET /colors/1
