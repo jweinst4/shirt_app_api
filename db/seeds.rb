@@ -16,15 +16,15 @@
 #     { style: 'shirt', size: 'XL', color: 'orange', price: 13, user_id: 2},
 #     { style: 'shirt', size: 'M', color: 'red', price: 12, user_id: 2},
 #     { style: 'shirt', size: 'S', color: 'pink', price: 10, user_id: 2},
-#     { style: 'hat', size: 'S', color: 'yellow', price: 10, user_id: 3}
-#   ])
-   Color.create([
-     {name: 'pink'},
-     {name: 'yellow'},
-     {name: 'blue'},
-     {name: 'red'},
-     {name: 'white'},
-     {name: 'black'},
-   ])
+# #     { style: 'hat', size: 'S', color: 'yellow', price: 10, user_id: 3}
+# #   ])
+#    Color.create([
+#      {name: 'pink'},
+#      {name: 'yellow'},
+#      {name: 'blue'},
+#      {name: 'red'},
+#      {name: 'white'},
+#      {name: 'black'},
+#    ])
     
   
