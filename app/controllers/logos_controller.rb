@@ -46,7 +46,7 @@ class LogosController < ApplicationController
 
       # Only allow a trusted parameter "white list" through.
       def logo_params
-        params.require(:logo).permit(:name)
+        params.require(:logo).permit(:name,:user_id)
       end
   end
   
