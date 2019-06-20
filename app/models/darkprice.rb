@@ -1,0 +1,2 @@
+class Darkprice < ApplicationRecord
+end
