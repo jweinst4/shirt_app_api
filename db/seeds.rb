@@ -13,7 +13,7 @@ Color.create([
 {name: 'Dark Chocolate', url: 'https://i.imgur.com/dwJIUxi.png', swatch: 'https://i.imgur.com/dwJIUxi.png?1'},
 {name: 'Heliconia', url: 'https://i.imgur.com/SBV2rWS.png', swatch: 'https://i.imgur.com/SBV2rWS.png?1'},
 {name: 'Daisy', url: 'https://i.imgur.com/mqz7z3z.png', swatch: 'https://i.imgur.com/mqz7z3z.png?1'},
-{name: 'Heather Sapphire', url: 'https://i.imgur.com/MH4vCe1.png', swatch: 'https://i.imgur.com/MH4vCe1.png?1'},
+{name: 'Heather Sapphire', url: 'https://i.imgur.com/ZbPNYDJ.png', swatch: 'https://i.imgur.com/ZbPNYDJ.png?1'},
 {name: 'Ash', url: 'https://i.imgur.com/0ULbN6y.png', swatch: 'https://i.imgur.com/0ULbN6y.png?1'},
 {name: 'Forest Green', url: 'https://i.imgur.com/bgPhz1E.png', swatch: 'https://i.imgur.com/bgPhz1E.png?1'},
 {name: 'Heather Military Green', url: 'https://i.imgur.com/CrJYXVq.png', swatch: 'https://i.imgur.com/CrJYXVq.png?1'},
