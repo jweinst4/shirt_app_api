@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+  resources :shirts
   resources :darkprices
   root 'welcome#index'
   resources :items
