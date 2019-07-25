@@ -1,12 +1,3 @@
-User.create([
-        { name: 'Jon', size: 'M', age: 31},
-        { name: 'A', size: 'L', age: 22},
-        { name: 'B', size: 'XL', age: 31},
-        { name: 'C', size: 'S', age: 25},
-        { name: 'D', size: 'XL', age: 44},
-      ])
-    
-
 Color.create([
 
     {name: 'Violet', url: 'https://i.imgur.com/4seabvo.png', swatch: 'https://i.imgur.com/FWFWLdv.png?1', backURL: 'https://i.imgur.com/2iILQgP.png'},
@@ -79,31 +70,6 @@ Color.create([
     {name: 'Electric Green', url: 'https://i.imgur.com/ahEtgPJ.png', swatch: 'https://i.imgur.com/rzpvnel.png?1', backURL: 'https://i.imgur.com/JA7U9Po.png'},
     {name: 'Cobalt', url: 'https://i.imgur.com/5VEBiQF.png', swatch: 'https://i.imgur.com/FNBLc9T.png?1', backURL: 'https://i.imgur.com/XfhbpxR.png'},
     {name: 'Black', url: 'https://i.imgur.com/mjKPh7f.png', swatch: 'https://i.imgur.com/MZFTieP.png?1', backURL: 'https://i.imgur.com/Vw2UbMz.png'},
-    
 ])
-    
-
-  Item.create([
-    { style: 'shirt', size: 'S', color: 'blue', price: 10, user_id: 1},
-    { style: 'shirt', size: 'M', color: 'red', price: 12, user_id: 1},
-    { style: 'shirt', size: 'S', color: 'yellow', price: 10, user_id: 1},
-    { style: 'shirt', size: 'S', color: 'blue', price: 10, user_id: 2},
-    { style: 'shirt', size: 'L', color: 'red', price: 12, user_id: 2},
-    { style: 'shirt', size: 'S', color: 'yellow', price: 10, user_id: 2},
-    { style: 'shirt', size: 'XL', color: 'orange', price: 13, user_id: 2},
-    { style: 'shirt', size: 'M', color: 'red', price: 12, user_id: 2},
-    { style: 'shirt', size: 'S', color: 'pink', price: 10, user_id: 2},
-    { style: 'hat', size: 'S', color: 'yellow', price: 10, user_id: 3}
-  ])
-  
-   Color.create([
-     {name: 'pink'},
-     {name: 'yellow'},
-     {name: 'blue'},   
-     {name: 'red'},
-     {name: 'white'},
-     {name: 'black'},
-   ])
-    
 
 
