@@ -1,3 +1,12 @@
+User.create([
+    name: '1', age: 2, size: '3'
+])
+
+Logo.create([
+    name: 'https://jweinst4.s3.amazonaws.com/Test/Air-Jordan-1-Bred-Toe-Womens-GS-Red-And-Black-Jordans-Shoes-575441-610-(1)-1300x1300.jpg',
+    user_id: 1,
+])
+    
 Color.create([
 
     {name: 'Violet', url: 'https://i.imgur.com/4seabvo.png', swatch: 'https://i.imgur.com/FWFWLdv.png?1', backURL: 'https://i.imgur.com/2iILQgP.png'},
