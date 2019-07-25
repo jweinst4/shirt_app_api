@@ -99,16 +99,11 @@ Color.create([
    Color.create([
      {name: 'pink'},
      {name: 'yellow'},
-     {name: 'blue'},
+     {name: 'blue'},   
      {name: 'red'},
      {name: 'white'},
      {name: 'black'},
    ])
     
-Logo.create([
-         { name: 'https://i.imgur.com/2FPatyw.png?1', user_id: 1},
-         { name: 'https://i.imgur.com/eWUVgIV.png?1', user_id: 2},
-         { name: 'https://i.imgur.com/cq1KbYO.png?1', user_id: 2},
-         { name: 'https://i.imgur.com/wdU3TLw.png?1', user_id: 3},
-])
+
 
